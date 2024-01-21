@@ -1,0 +1,11 @@
+credit_example_model_demo3
+
+    NYC 144: https://pub-cc8d623e43954c8fa75380adfd3bb762.r2.dev/reports/credit_example_model_demo3_report_0m6t70kx.html
+    NIST: https://pub-cc8d623e43954c8fa75380adfd3bb762.r2.dev/reports/credit_example_model_demo3_report_i2a2cilx.html
+
+
+credit_example_model_demo4
+
+  NYC 144 : https://pub-cc8d623e43954c8fa75380adfd3bb762.r2.dev/reports/credit_example_model_demo4_report_qutd_rqm.html
+  NIST: https://pub-cc8d623e43954c8fa75380adfd3bb762.r2.dev/reports/credit_example_model_demo4_report_krgt59jm.html
+
